@@ -1,0 +1,53 @@
+{
+    "name": "testIdlingResourcesAndCustomsMatcherAndAssertion",
+    "start": 1674238953094,
+    "stop": 1674238956564,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9293d0c1-56cf-4917-bf35-0be4df3a9e2b",
+    "historyId": "d90dbb241581940ed1e46fe9e0de0eba",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.MyTest.testIdlingResourcesAndCustomsMatcherAndAssertion",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.MyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIdlingResourcesAndCustomsMatcherAndAssertion"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.MyTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(301982)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
